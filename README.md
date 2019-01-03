@@ -66,9 +66,10 @@ f.      GraphQl
  ### Podcasts to keep your motivation up when staring out:
 
 Beginner focused. (often with guests who taught themselves to code). I suggest going through the backlogs and finding some that seem similar to your situation/interests:
-  	* [Code Newbie](https://www.codenewbie.org/podcast)
-	* [Learn To Code With Me](https://learntocodewith.me/podcast/)
+* [Code Newbie](https://www.codenewbie.org/podcast)
+* [Learn To Code With Me](https://learntocodewith.me/podcast/)
+* [Syntax](https://syntax.fm/)
 	
 More general. You probably won't understand much at first, but you'll learn by osmosis and start to get a feel for new technologies and their life-cycles etc.: 
-	* [Software engineering daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/) 
-	* [List of other good podcasts](https://www.techrepublic.com/article/10-podcasts-for-programmers-and-budding-developers/)
+* [Software engineering daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/) 
+* [List of other good podcasts](https://www.techrepublic.com/article/10-podcasts-for-programmers-and-budding-developers/)
