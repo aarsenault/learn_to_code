@@ -1,4 +1,6 @@
+# Self-study for web development:
 
+I'm making up this sylabus because a number of friends have been asking me what they should learn if they'd like to get a job as a web developer. Here's a rough outline of the basics. I will keep it up to date and add more resources as I find them. Feel free to suggest aditions. 
 
 ## Intro to Computer Science 
 
@@ -58,11 +60,15 @@ f.      GraphQl
 3. Read Cracking the coding interview
 4. Whitboarding practice 
 
-## Job! 
 
 
 ## Extras:
- ### good podcasts when staring out:
-	 * Code Newbies
-	 * Learn To Code With Me 
-	 * Software engineering daily (you probably won't understand)
+ ### Podcasts to keep your motivation up when staring out:
+
+Beginner focused. (often with guests who taught themselves to code). I suggest going through the backlogs and finding some that seem similar to your situation/interests:
+  	* [Code Newbie](https://www.codenewbie.org/podcast)
+	* [Learn To Code With Me](https://learntocodewith.me/podcast/)
+	
+More general. You probably won't understand much at first, but you'll learn by osmosis and start to get a feel for new technologies and their life-cycles etc.: 
+	* [Software engineering daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/) 
+	* [List of other good podcasts](https://www.techrepublic.com/article/10-podcasts-for-programmers-and-budding-developers/)
