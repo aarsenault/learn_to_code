@@ -13,7 +13,7 @@ I'm making up this sylabus because a number of friends have been asking me what 
 ## Programming Fundamentals and the Web 
 *	[Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 
-*   	[Javascript 30](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
+* .     [Javascript 30](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
 
 *	[Responsive Web Design Fundamentals ](https://classroom.udacity.com/courses/ud893)
 
