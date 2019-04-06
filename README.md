@@ -11,11 +11,13 @@ I'm making up this sylabus because a number of friends have been asking me what 
 	- watch this course [https://www.youtube.com/watch?v=4q1tD39Mk_](https://www.youtube.com/watch?v=4q1tD39Mk_A)
 
 ## Programming Fundamentals and the Web 
-c.	[Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+*	[Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 
-d.	[Responsive Web Design Fundamentals ](https://classroom.udacity.com/courses/ud893)
+*   	[Javascript 30](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
 
-e.  Flex box, Css grid
+*	[Responsive Web Design Fundamentals ](https://classroom.udacity.com/courses/ud893)
+
+* .  Flex box, Css grid
 
 f.	[Read Eloquent Javascript](https://eloquentjavascript.net/)
 
